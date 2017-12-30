@@ -1,0 +1,28 @@
+h1 {
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+}
+
+td {
+	width: 100px;
+	height: 100px;
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.vertical {
+	border-left: 1px solid black;
+	border-right: 1px solid black; 
+}
+
+.middle {
+	border: 1px solid black;
+}
+
+.side {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
