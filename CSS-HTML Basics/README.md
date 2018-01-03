@@ -30,4 +30,28 @@ img {
 ```
 ![test](https://github.com/amandazhuyilan/Web-Dev-Bootcamp/blob/master/CSS-HTML%20Basics/photo-blog.png)
 
+### [Tic Tac Toe](https://github.com/amandazhuyilan/Web-Dev-Bootcamp/blob/master/CSS-HTML%20Basics/tictactoe.css)
+
+Accomplished using tables:
+```
+<table>
+	<tr>
+		<td></td>
+		<td class="vertical"></td>
+		<td></td>
+	</tr>	
+	<tr>
+		<td class="side"></td>			
+		<td class= "middle"></td>
+		<td class= "side"></td>
+	</tr>
+
+	<tr>
+		<td></td>
+		<td class= "vertical"></td>
+		<td></td>
+	</tr>
+</table>
+```
+![test](https://github.com/amandazhuyilan/Web-Dev-Bootcamp/blob/master/CSS-HTML%20Basics/tic-tac-toe.png)
 
